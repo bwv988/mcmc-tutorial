@@ -1,0 +1,14 @@
+---
+title: "Markov Chain Monte Carlo"
+author: "Ralph Schlosser"
+date: "January 2017"
+output:
+  beamer_presentation:
+    includes:
+      in_header: mystyle.tex
+---
+
+## Overview
+
+* Bayesian Inference
+* MCMC
