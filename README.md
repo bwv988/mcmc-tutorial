@@ -1,2 +1,3 @@
 # mcmc-tutorial
-Markov Chain Monte Carlo tutorial
+
+Short tutorial on Bayesian Analysis and Metropolis-Hastings MCMC.
